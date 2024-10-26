@@ -1,4 +1,4 @@
 # TimeWise
-dự án webstite Thời Khóa Biểu Thông Minh Pro
+dự án webstite Thời Khóa Biểu Thông Minh Pro \n
 Hoàng, Đạt
 
